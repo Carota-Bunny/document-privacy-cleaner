@@ -1,0 +1,10 @@
+PySide6 / Qt for Python 6.10.2 is distributed under licensing options
+identified by its official package and documentation, including LGPL-3.0-only,
+GPL-2.0-only, GPL-3.0-only, or a commercial Qt license as applicable.
+
+This repository uses the LGPL/GPL-compatible open-source distribution path.
+See the complete LGPL-3.0 and GPL-3.0 texts in this directory and the official
+Qt for Python licensing page:
+
+https://doc.qt.io/qtforpython-6/licenses.html
+
